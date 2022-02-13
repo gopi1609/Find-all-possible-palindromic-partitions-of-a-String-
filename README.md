@@ -19,7 +19,7 @@ def find(i,n):
             # removing the pallindromic string after completing the function call
             temp.pop()
             
-# calling fucntion from 0 index        
+#calling fucntion from 0 index        
 find(0,n)
-# print the resultant list
+#print the resultant list
 print(re)
